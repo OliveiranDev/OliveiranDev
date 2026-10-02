@@ -3,13 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveiran-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveiran.dev@gmail.com)
 
-Sou estudante de Ciência de Dados pela Uninter e atualmente atuo na área de dados como estagiário na Amil, no setor de MIS, trabalhando diretamente com análise de dados e suporte à tomada de decisão em saúde suplementar.
+Sou estudante de Ciência de Dados pela Uninter e atualmente atuo na área de dados como estagiário na Amil, no setor de MIS, trabalhando com análise de dados e suporte à tomada de decisão em saúde suplementar.
 
-Minha atuação é orientada a negócio: utilizo dados para entender problemas reais, gerar insights e apoiar decisões estratégicas.
+Meus estudos são orientados a negócio: utilizando o método CRISP-DM como estrutura para gerar insights e apoiar decisões estratégicas.
 
-Tenho experiência prática com SQL no ambiente Databricks, atuando na exploração, transformação e análise de dados em cenários reais.
+Tenho experiência prática com SQL e Python no ambiente Databricks, atuando na exploração, transformação e análise de dados.
 
-Além disso, desenvolvo projetos end-to-end que simulam desafios do mercado, com foco em geração de valor através dos dados.
+Além disso, desenvolvo estudos end-to-end passando por todas as etapas do projeto até a implementação e o acompanhamento.
 
 ---
 
@@ -17,8 +17,7 @@ Além disso, desenvolvo projetos end-to-end que simulam desafios do mercado, com
 
 * **Linguagens & Manipulação:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 * **Visualização & BI:** ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black) Matplotlib, Seaborn.
-* **Machine Learning:** Conceitos de Redes Neurais, Regressão e Classificação (Scikit-Learn).
-* **Fundamentos:** Probabilidade, Estatística, Modelagem Dimensional e Engenharia de Dados.
+* **Fundamentos:** Probabilidade, Estatística, Modelagem Estatística e Engenharia de Dados.
 
 ---
 
